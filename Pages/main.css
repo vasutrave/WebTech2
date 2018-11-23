@@ -1,0 +1,27 @@
+@charset "utf-8";
+body {
+	background-color: #B40C37;
+}
+.card {
+	position: relative;
+	left: 22%;
+	width: 92%;
+	padding-top: 9px;
+	top: 45%;
+}
+.card-text {
+	color: #9D9797;
+	font-family: cantarell;
+	font-style: normal;
+	font-weight: 400;
+}
+.card2 {
+	position: relative;
+	top: 96%;
+}
+.sentiment {
+	color: #B40C37;
+	font-style: normal;
+	font-family: averia-serif-libre;
+	font-weight: 400;
+}
