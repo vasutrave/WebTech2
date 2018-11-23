@@ -1,6 +1,9 @@
 @charset "utf-8";
-body {
-	background-color: #B40C37;
+.main {
+	background-color: #F47B61;
+}
+#topnav{
+	background-color: white;
 }
 .card {
 	position: relative;
@@ -9,7 +12,7 @@ body {
 	padding-top: 9px;
 	top: 45%;
 }
-.card-text {
+.card-text {	
 	color: #9D9797;
 	font-family: cantarell;
 	font-style: normal;
@@ -20,7 +23,7 @@ body {
 	top: 96%;
 }
 .sentiment {
-	color: #B40C37;
+	color: #F47B61;
 	font-style: normal;
 	font-family: averia-serif-libre;
 	font-weight: 400;
